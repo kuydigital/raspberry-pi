@@ -36,7 +36,7 @@ detector = snowboydecoder.HotwordDetector(models, sensitivity=sensitivity)
 ###############################################################################
 ## Here's a sample on how to add your own callbacks by using os.system
 ## callbacks = [lambda: os.system("espeak -v m1 -g 5 'Yes sir!'") & os.system("python3 /home/pi/servos/pivot-1.py"),
-               lambda: os.system("espeak -v m1 -g 5 'Yes sir!'") & os.system("mplayer /home/pi/Music/*.flac")]
+##              lambda: os.system("espeak -v m1 -g 5 'Yes sir!'") & os.system("mplayer /home/pi/Music/*.flac")]
 
 ## Note: You can add mulitple os.system commands by using "&". Each callback is separated by ","
 
