@@ -1,5 +1,5 @@
 # raspberry-pi
-Project Python Code Repository
+Projects: Python Code Repository
 
 TABLE OF CONTENTS
 
